@@ -1,0 +1,8 @@
+# Temporyrary folder
+temp/
+
+# Tesserac training data
+**/eng.traineddata
+
+# Node modules directory
+node_modules/
